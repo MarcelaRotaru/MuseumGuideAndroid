@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Museum Guide</string>
+    <string name="scan_barcode">Scan Barcode</string>
+    <string name="button">Program</string>
+    <string name="title_activity_picture_details">PictureDetailsActivity</string>
+    <string name="tab_text_1">Descriere</string>
+    <string name="tab_text_2">Link extern</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main_museum">MainMuseum</string>
+    <string name="title_activity_scan_qr">ScanQRActivity</string>
+
+</resources>
